@@ -14,10 +14,10 @@ To facilitate the use of the RAT-Library, CCTools provides the `ModelCalculator`
 This project is part of the FCC-ee HTS4 research project at CERN.
 
 ## Documentation
-The documentation of this library can be viewed [here](https://thattilux.github.io/CCTools/).
+The documentation of this library can be viewed [here](https://olekuhlmann.github.io/CCTools/).
 Additionally, example code showcasing core functionalities is located at `examples/example.cpp`.
 
-More sophisticated examples can be found in the repository [CCT-Harmonics-Optimizer](https://github.com/ThatTilux/CCT-Harmonics-Optimizer), a project within our group utilizing this library. 
+More sophisticated examples can be found in the repository [CCT-Harmonics-Optimizer](https://github.com/olekuhlmann/CCT-Harmonics-Optimizer), a project within our group utilizing this library. 
 
 ## Prerequisites
 **Note: This software has only been tested on Linux.**
@@ -64,7 +64,7 @@ To incorporate CCTools into your C++ project, follow these steps. Make sure you 
 
    FetchContent_Declare(
      CCTools
-     GIT_REPOSITORY https://github.com/ThatTilux/CCTools.git
+     GIT_REPOSITORY https://github.com/olekuhlmann/CCTools.git
      GIT_TAG        main
    )
 
@@ -118,7 +118,7 @@ Please note that this step is  **not required** to use this library in your C++ 
 
 Ole Kuhlmann  
 Email: [ole.kuhlmann@rwth-aachen.de](mailto:ole.kuhlmann@rwth-aachen.de)  
-GitHub: [ThatTilux](https://github.com/ThatTilux)
+GitHub: [olekuhlmann](https://github.com/olekuhlmann)
 
 ## License
 
